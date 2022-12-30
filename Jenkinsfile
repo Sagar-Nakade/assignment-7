@@ -18,7 +18,7 @@ label{
 		agent {
 		node {
 				label "QA"
-				customWorkspace "/mnt/slave"
+				customWorkspace "/mnt/slave@"
 		    }
 		
 		}
@@ -33,7 +33,7 @@ label{
 		agent {
 		node {
 				label "AQ"
-				customWorkspace "/mnt/slave-2"
+				customWorkspace "/mnt/slave@"
 		    }
 		
 		}
